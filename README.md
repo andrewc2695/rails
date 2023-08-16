@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+model is databse
+ - can use any databse with little code changes
+view is a webpage
+C is controler
+ - code behind the view page so no code iin html page
